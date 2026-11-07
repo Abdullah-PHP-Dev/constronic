@@ -1,0 +1,16 @@
+/*
+Theme Name:        Contronic
+Theme URI:         https://controniceuae.com
+Description:       Custom corporate theme for Contronic UAE — construction and MEP. Pairs with the Contronic Core plugin, which provides services, products, projects, partners, testimonials, hero slides, inquiries and SEO.
+Version:           1.0.0
+Requires at least: 6.4
+Tested up to:      7.1
+Requires PHP:      7.4
+Author:            Contronic UAE
+Text Domain:       contronic
+License:           GPL-2.0-or-later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Tags:              custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks
+*/
+
+/* Styles live in assets/css/main.css (enqueued in functions.php). */

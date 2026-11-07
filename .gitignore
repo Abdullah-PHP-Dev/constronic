@@ -15,3 +15,6 @@ wp-content/debug.log
 Thumbs.db
 .idea/
 .vscode/
+
+# Local DB backups
+backups/
