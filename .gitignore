@@ -1,0 +1,17 @@
+# WordPress secrets & environment
+wp-config.php
+.htaccess
+.env
+
+# User-generated / runtime content
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/debug.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
